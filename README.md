@@ -39,7 +39,3 @@
 <p align="left">The analysis provides valuable insights into customer demographics, preferences, and behaviors during the Diwali sales period. These insights can guide businesses in optimizing marketing strategies, inventory management, and product offerings to enhance customer satisfaction and maximize sales.</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/prateekkp/prateekkp/output/snake.svg" alt="Snake animation" />
-
-###
