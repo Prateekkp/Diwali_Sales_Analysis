@@ -61,7 +61,7 @@ This analysis provides data-driven insights into the purchasing trends during th
 
 ### Age Group Preferences
 - The **26-35 age group** represents **65%** of all buyers, with a significant majority being female. This age group displays strong preferences for electronics and fashion items, highlighting the potential for targeted marketing strategies focused on this segment.
-- ![Age Group Analysis](images/Age_Group_Analysis.png)
+- ![Age Group Analysis](Diwali_Sales_Analysis_Using_Python/images/Age_Group_Analysis.png)
 
 ### Regional Sales Analysis
 - **Uttar Pradesh, Maharashtra, and Karnataka** emerge as the top-performing states in terms of both the number of orders and total sales value. Together, these states contribute over **40%** of the total sales during the Diwali period. Focusing marketing efforts on these regions could maximize returns.
