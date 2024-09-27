@@ -57,18 +57,24 @@ This analysis provides data-driven insights into the purchasing trends during th
 
 ### Gender-Based Purchasing Power
 - **55%** of buyers are females, and they exhibit a higher purchasing power, especially in high-demand categories such as fashion and electronics. Female customers tend to make larger transactions, making them a key target demographic for marketing campaigns during the Diwali season.
+- ![Buying Power by Gender](images/Gender-Based_Purchasing_Power.png)
 
 ### Age Group Preferences
 - The **26-35 age group** represents **65%** of all buyers, with a significant majority being female. This age group displays strong preferences for electronics and fashion items, highlighting the potential for targeted marketing strategies focused on this segment.
+- ![Age Group Analysis](images/Age_Group_Analysis.png)
 
 ### Regional Sales Analysis
 - **Uttar Pradesh, Maharashtra, and Karnataka** emerge as the top-performing states in terms of both the number of orders and total sales value. Together, these states contribute over **40%** of the total sales during the Diwali period. Focusing marketing efforts on these regions could maximize returns.
+- ![State-wise Orders](images/Regional_Sales_Leaders.png)
 
 ### Marital Status and Buying Patterns
 - **70%** of customers are married, and married women particularly exhibit higher purchasing power. This group tends to favor categories such as home décor and large appliances, making them crucial for premium product marketing.
+- ![Marital Status and Buying Patterns](images/Marital_Status_Buying_Patterns.png)
 
 ### Occupation-Based Sales Trends
 - Customers employed in **IT, healthcare, and aviation** sectors are responsible for the majority of high-value purchases. These sectors account for **60%** of total sales, especially in technology-related product categories.
+- ![Occupation-Based Sales Trends](images/Occupation_Sales_Trends.png)
+
 
 ### Product Category Insights
 - **Food, clothing, and electronics** are the most popular categories, contributing **35%** of total sales. Electronics, in particular, is a fast-growing category during the festive season, driven by attractive offers and deals.
@@ -101,4 +107,4 @@ Based on the analysis, the following recommendations are provided to optimize fu
 
 ## Conclusion
 
-This Diwali Sales Analysis reveals critical insights into customer behaviors and regional trends, providing businesses with the necessary information to optimize their sales and marketing strategies. By focusing on gender, age, and occupation-specific insights, and prioritizing high-demand regions and product categories, companies can enhance customer satisfaction, boost sales, and improve inventory management for future festive seasons.
+This Diwali Sales Analysis uncovers essential insights into consumer behavior, demographic trends, and regional performance. By leveraging these insights, businesses can effectively tailor their sales and marketing strategies to enhance customer engagement, optimize inventory management, and maximize revenue during the festive season.
