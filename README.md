@@ -57,7 +57,7 @@ This analysis provides data-driven insights into the purchasing trends during th
 
 ### Gender-Based Purchasing Power
 - **55%** of buyers are females, and they exhibit a higher purchasing power, especially in high-demand categories such as fashion and electronics. Female customers tend to make larger transactions, making them a key target demographic for marketing campaigns during the Diwali season.
-- ![Buying Power by Gender](images/Gender-Based_Purchasing_Power.png)
+- ![Buying Power by Gender](Diwali_Sales_Analysis_Using_Python/images/Gender-Based_Purchasing_Power.png)
 
 ### Age Group Preferences
 - The **26-35 age group** represents **65%** of all buyers, with a significant majority being female. This age group displays strong preferences for electronics and fashion items, highlighting the potential for targeted marketing strategies focused on this segment.
