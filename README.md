@@ -57,11 +57,11 @@ This analysis provides data-driven insights into the purchasing trends during th
 
 ### Gender-Based Purchasing Power
 - **55%** of buyers are females, and they exhibit a higher purchasing power, especially in high-demand categories such as fashion and electronics. Female customers tend to make larger transactions, making them a key target demographic for marketing campaigns during the Diwali season.
-- ![Buying Power by Gender](images/Gender-Based Purchasing Power.png)
+- ![Buying Power by Gender](images/Gender-Based_Purchasing_Power.png)
 
 ### Age Group Preferences
 - The **26-35 age group** represents **65%** of all buyers, with a significant majority being female. This age group displays strong preferences for electronics and fashion items, highlighting the potential for targeted marketing strategies focused on this segment.
-- ![Age Group Analysis](Diwali_Sales_Analysis_Using_Python/images/Age_Group_Analysis.png)
+- ![Age Group Analysis](images/Age_Group_Preference.png)
 
 ### Regional Sales Analysis
 - **Uttar Pradesh, Maharashtra, and Karnataka** emerge as the top-performing states in terms of both the number of orders and total sales value. Together, these states contribute over **40%** of the total sales during the Diwali period. Focusing marketing efforts on these regions could maximize returns.
@@ -69,11 +69,11 @@ This analysis provides data-driven insights into the purchasing trends during th
 
 ### Marital Status and Buying Patterns
 - **70%** of customers are married, and married women particularly exhibit higher purchasing power. This group tends to favor categories such as home décor and large appliances, making them crucial for premium product marketing.
-- ![Marital Status and Buying Patterns](images/Marital_Status_Buying_Patterns.png)
+- ![Marital Status and Buying Patterns](images/Marital_Status_Influence.png)
 
 ### Occupation-Based Sales Trends
 - Customers employed in **IT, healthcare, and aviation** sectors are responsible for the majority of high-value purchases. These sectors account for **60%** of total sales, especially in technology-related product categories.
-- ![Occupation-Based Sales Trends](images/Occupation_Sales_Trends.png)
+- ![Occupation-Based Sales Trends](images/Occupation-Based_Sales_Trends.png)
 
 
 ### Product Category Insights
